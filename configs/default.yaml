@@ -1,0 +1,5 @@
+model_path: yolov8n.pt
+conf_threshold: 0.35
+iou_threshold: 0.45
+img_size: 640
+device: cuda
